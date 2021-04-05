@@ -1,2 +1,2 @@
 
-![](https://github.com/ValyaBro/ValyaBro/blob/main/redaktor.svg)
+![designer](https://github.com/ValyaBro/ValyaBro/blob/main/designer.svg)
