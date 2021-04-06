@@ -1,2 +1,1 @@
-
-![designer](https://github.com/ValyaBro/ValyaBro/blob/main/designer.svg)
+[![Team lead of Design Crew @y-doka](https://github.com/Y-Doka/badges/raw/main/images/designer.svg)](https://github.com/Y-Doka)
